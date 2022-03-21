@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">Getir Gitti</string>
+    <string name="nameTag">Name</string>
+    <string name="firstNameTag">First Name</string>
+    <string name="secondNameTag">Second Name</string>
+    <string name="passwordTag">Password</string>
+    <string name="emailTag">Email</string>
+    <string name="signInTag">Sign In</string>
+    <string name="dontHaveAcountTag">Don\'t have an account? Sign Up!</string>
+    <string name="signUpTag">Sign Up</string>
+    <string name="backTag">Back</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="logoutTag">Logout</string>
+    <string name="excessTag">Share</string>
+    <string name="requestTag">Request Item</string>
+    <string name="profileTag">Profile</string>
+    <string name="changePasswordTag">Change Password</string>
+    <string name="oldPasswordTag">Old Password</string>
+    <string name="newPasswordTag">New Password</string>
+    <string name="confirmPasswordTag">Confirm Password</string>
+    <string name="changeTag">Change information</string>
+    <string name="extended_fab_label">Add</string>
+    <string name="requesterTag">Requested By:</string>
+    <string name="addItemTag">Add Item</string>
+    <string name="categoriesTag">Categories</string>
+    <string name="itemNameTag">Item Name</string>
+    <string name="developedByTag">Developed By</string>
+    <string name="hakkimdaTag">Hakkimda</string>
+    <string name="iletisimTag">Iletisim</string>
+    <string name="kvkkTag">KVKK Sozlesmesi</string>
+
+    <string name="thankYouNote">Thank you Neşe Hoca and Leyla Hoca for the lovely semester and all the help. It was a pleasure to be taught by you. We
+        hope we can continue to make good use of the knowledge you have given to us.</string>
+    <string name="tandcTag"><![CDATA[Terms & Conditions]]></string>
+    <string name="giverTag">Given By:</string>
+
+    <array name="categories">
+        <item>Electronics</item>
+        <item>Fruits</item>
+        <item>Vegetables</item>
+        <item>Clothes</item>
+    </array>
+</resources>
